@@ -5,6 +5,21 @@
       "title": "hello"
     }
   ],
+
+ "fruits" :[ 
+{
+"id" : 1,
+"name" : "apple"
+},
+
+{
+"id" : 2,
+"name" : "orange"
+}
+
+]
+
+
   "profile": {
     "name": "typicode"
   }
