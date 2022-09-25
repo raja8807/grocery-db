@@ -2,7 +2,7 @@
   "fruits": [
     {
       "id": 1,
-      "title": "hello"
+      "name" : "apple"
     }
   ],
   
@@ -12,8 +12,5 @@
      "name" : "brinjal"
     }
     
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
