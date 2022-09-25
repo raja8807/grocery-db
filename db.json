@@ -5,6 +5,14 @@
       "title": "hello"
     }
   ],
+  
+  "vegetables" : [
+    {
+    "id" : 1,
+     "name" : "brinjal"
+    }
+    
+  ],
   "profile": {
     "name": "typicode"
   }
